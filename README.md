@@ -2,7 +2,7 @@
 
 ```javascript
 var script = document.createElement('script');
-script.src = "https://cdn.jsdelivr.net/gh/Anti-Scamer/cmdjs@3/cmd.js";
+script.src = "https://cdn.jsdelivr.net/gh/Anti-Scamer/cmdjs@4/cmd.js";
 document.getElementsByTagName('head')[0].appendChild(script);
 ```
 
